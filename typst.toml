@@ -1,5 +1,5 @@
 [package]
-name = "ensam-clean"     
+name = "clean-ensam"     
 version = "0.1.0"
 entrypoint = "lib.typ"
 authors = ["BAHLAOUI Ahmed <AhmedBahlaoui@outlook.com>"]

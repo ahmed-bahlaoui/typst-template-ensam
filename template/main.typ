@@ -1,4 +1,4 @@
-#import "@local/ensam-clean:0.1.0": project
+#import "@local/clean-ensam:0.1.0": project
 
 #show: project.with(
   title: "Etude d'une vulnérabilité critique",
