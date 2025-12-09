@@ -16,10 +16,8 @@ A simple, clean, and customizable template for ENSAM RABAT needs.
 
 Make sure you have Typst installed from https://typst.app
 
-### 2. Compile with custom inputs
+### Use it locally
 
 ```bash
-typst compile template.typ output.pdf \
-  --input title="My Document" \
-  --input author="BAHLAOUI Ahmed"
+typst init @preview/clean-ensam:0.1.0
 ```
